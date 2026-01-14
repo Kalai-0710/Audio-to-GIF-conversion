@@ -1,0 +1,5 @@
+whisper
+deep-translator
+numpy
+matplotlib
+scikit-learn
